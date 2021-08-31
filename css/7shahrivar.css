@@ -47,5 +47,14 @@ div h3:first-of-type{
 }
 #divider{
     border: 1px solid grey;
-    margin: 5px 0;
+    margin: 10px 0;
+}
+.section{
+    background-color: rgb(255,0,146);
+    line-height: 25px;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
 }
